@@ -28,5 +28,15 @@
     "vue-template-compiler": "^2.3.3",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leafqun/student_website.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leafqun/student_website/issues"
+  },
+  "homepage": "https://github.com/Leafqun/student_website#readme"
 }
